@@ -3,7 +3,7 @@ const { writeFile } = require("fs");
 function generateMarkdown(data) {
   let output = `
 # ${data.title}
-![${data.license}](${data.license})
+${data.license == 'None' ? '' : `![${data.license}](https://img.shields.io/badge/Lincense-${data.license}-blue)`}
 
 ## Description
 ${data.description}
@@ -23,10 +23,11 @@ ${data.installation}
 ## Usage
 ${data.usage}
 
-
 ## Contributors
 ${data.contributors}
 
+## Lincese
+${data.license}
 
 ## Tests
 ${data.test}

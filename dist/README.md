@@ -1,10 +1,9 @@
 
-# sdsf
+# Professional-README-Generator
+![MIT](https://img.shields.io/badge/Lincense-MIT-blue)
 
 ## Description
-dsfsd
-
-![GPL](GPL)
+generates a Professional README based on your inputs to the questions.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -16,20 +15,21 @@ dsfsd
 - [Questions](#questions)
 
 ## Installation
-asdfsdf
+Inquirer
 
 ## Usage
-dsfs
-
+Running the application in terminal.
 
 ## Contributors
-faf
+Jason Cano
 
+## Lincese
+MIT
 
 ## Tests
-sdfs
+Confirm file is created in the Distribution folder.
 
 ## Questions
 If there are any questions of concerns, I can be reached at:
-##### [github: sdf](https://github.com/sdf})
-##### [email: sdfs](mailto:sdfs)
+##### [github: jasoncano1](https://github.com/jasoncano1)
+##### [email: jasoncano0509@gmail.com](mailto:jasoncano0509@gmail.com)
